@@ -1,55 +1,6 @@
-<!-- ====== ESTILOS GENERALES ====== -->
-<style>
-  body {
-    font-family: "Segoe UI", Arial, sans-serif;
-    color: #333;
-    line-height: 1.6;
-  }
-
-  h1 {
-    color: #1A73E8;
-    margin-bottom: 5px;
-  }
-
-  h2 {
-    color: #1A73E8;
-    margin-top: 30px;
-    border-left: 5px solid #1A73E8;
-    padding-left: 10px;
-  }
-
-  p, ul {
-    font-size: 15px;
-  }
-
-  ul {
-    margin-left: 20px;
-  }
-
-  .subtitulo {
-    color: #555;
-    margin-top: -10px;
-    font-size: 14px;
-  }
-
-  hr {
-    border: 0;
-    border-top: 2px solid #1A73E8;
-    margin: 20px 0;
-  }
-
-  .seccion {
-    background: #f7faff;
-    padding: 15px 20px;
-    border-radius: 8px;
-    border: 1px solid #dce7f7;
-    margin-bottom: 20px;
-  }
-</style>
-
 <!-- ====== TÍTULO ====== -->
 <h1>Análisis de Ventas de Videojuegos y Tendencias por Plataforma (2011–2016)</h1>
-<p class="subtitulo">Proyecto de Bootcamp – TripleTen · Tienda de Videojuegos Online</p>
+<p class="subtitulo">Tienda de Videojuegos Online</p>
 
 <hr>
 
